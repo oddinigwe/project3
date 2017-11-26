@@ -19,7 +19,7 @@ This dataset has been converted to CSV
 
 ## AUTHOR'S NAME AND CONTACT
 
-Oddinigwe Onyemenem - oddinigwe@gmail.com
+Oddinigwe Onyemenem - oonnyem20@laker.mercyhurst.edu
 
 ## Context and Content
 
