@@ -21,6 +21,9 @@ This dataset has been converted to CSV
 
 Oddinigwe Onyemenem - oonnyem20@laker.mercyhurst.edu
 
+## Context and Content
+
+The dataset contains more than 65,000 records/rows of data
 
 ![GitHub Logo](chisquadcar.png)
 
