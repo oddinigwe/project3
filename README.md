@@ -11,11 +11,7 @@ To analyze the chicago crime dataset and produce at least two visualizations.
 Using pandas, seaborn, numpy, and matplotlib 
 Created bar chart, boxplot, scatter plot, violin plot, and kdeplot 
 
-## DATA SOURCE 
 
-https://data.cityofchicago.org/Public-Safety/Crimes-2016/kf95-mnd6/data
-
-This dataset has been converted to CSV
 
 ## AUTHOR'S NAME AND CONTACT
 
